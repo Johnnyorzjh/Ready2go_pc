@@ -1,0 +1,1486 @@
+{
+    "Liechtenstein": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Liechtenstein. "
+    },
+    "North Macedonia": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in North Macedonia. "
+    },
+    "Nauru": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Nauru. "
+    },
+    "Palau": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Palau. "
+    },
+    "Myanmar": {
+        "color": "#fd5449",
+        "Level": "Level 4: Do Not Travel",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Civil Unrest, Health, Other",
+        "Details": " Do not travel to Burma due to areas of civil unrest and armed conflict. Reconsider travel to Burma due to COVID-19-related restrictions "
+    },
+    "Worldwide Caution": {
+        "color": "#d8d8e1",
+        "Level": "Caution",
+        "DateUpdated": "January 15, 2019",
+        "Threats": "",
+        "Details": " This latest update to the Department of State\u2019s Worldwide Caution provides U.S. citizens with general information regarding terrorist activities, political violence and criminal activity that transpire abroad, as well as specific recommendations on how to prepare for possible contingencies, receive information on breaking security events and ensure that travelers can be contacted in an emergency. This version replaces the Worldwide Caution dated July 2, 2018. "
+    },
+    "Afghanistan": {
+        "color": "#fd5449",
+        "Level": "Level 4: Do Not Travel",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Crimes, Terrorism, Civil Unrest, Kidnap and Hostage, Other",
+        "Details": " Do not travel to Afghanistan due to civil unrest, armed conflict, crime, terrorism, and kidnapping.  "
+    },
+    "Albania": {
+        "color": "#facb5a",
+        "Level": "Level 2: Exercise Increased Caution",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "Crimes",
+        "Details": " Exercise increased caution in Albania due to crime. "
+    },
+    "Algeria": {
+        "color": "#facb5a",
+        "Level": "Level 2: Exercise Increased Caution",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Terrorism, Kidnap and Hostage",
+        "Details": " Exercise increased caution in Algeria due to terrorism and kidnapping. "
+    },
+    "Andorra": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions when traveling to Andorra. "
+    },
+    "Angola": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Angola. Some areas have increased risk. Read the entire Travel Advisory. "
+    },
+    "Anguilla": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Anguilla. "
+    },
+    "Antarctica": {
+        "color": "#facb5a",
+        "Level": "Level 2: Exercise Increased Caution",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Other",
+        "Details": " Exercise increased caution in Antarctica due to environmental hazards posed by extreme and unpredictable weather. "
+    },
+    "Antigua and Barbuda": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Antigua and Barbuda. "
+    },
+    "Botswana": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Botswana. "
+    },
+    "Cabo Verde": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Cabo Verde. Some areas have increased risk. Read the entire Travel Advisory. "
+    },
+    "Comoros": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Comoros. "
+    },
+    "Djibouti": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Djibouti. "
+    },
+    "Equatorial Guinea": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Equatorial Guinea. "
+    },
+    "Guinea": {
+        "color": "#facb5a",
+        "Level": "Level 2: Exercise Increased Caution",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Civil Unrest",
+        "Details": " Exercise increased caution in Guinea due to civil unrest. "
+    },
+    "Lesotho": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Lesotho. "
+    },
+    "Namibia": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "March 28, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Namibia. "
+    },
+    "Eswatini": {
+        "color": "#facb5a",
+        "Level": "Level 2: Exercise Increased Caution",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Crimes, Civil Unrest",
+        "Details": " Exercise increased caution in Eswatini due to crime and civil unrest. "
+    },
+    "Australia": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Australia. "
+    },
+    "Brunei": {
+        "color": "#e78434",
+        "Level": "Level 3: Reconsider Travel",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Health",
+        "Details": " Reconsider travel to Brunei due to COVID-19-related restrictions. "
+    },
+    "Fiji": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "",
+        "Details": " Read the country information page for additional information on travel to Fiji. "
+    },
+    "French Polynesia": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in French Polynesia. "
+    },
+    "Hong Kong": {
+        "color": "#fd5449",
+        "Level": "Level 4: Do Not Travel",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Health, Other",
+        "Details": " Reconsider travel to the People\u2019s Republic of China (PRC) due to arbitrary enforcement of local laws and COVID-19-related restrictions. Do not travel to the PRC\u2019s Hong Kong Special Administrative Region (SAR), Jilin province, and Shanghai municipality due to COVID-19-related restrictions, including the risk of parents and children being separated. Reconsider travel to the PRC\u2019s Hong Kong SAR due to arbitrary enforcement of local laws. "
+    },
+    "Japan": {
+        "color": "#e78434",
+        "Level": "Level 3: Reconsider Travel",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Health",
+        "Details": " Reconsider travel to Japan due to COVID-19-related entry restrictions. "
+    },
+    "Kiribati": {
+        "color": "#e78434",
+        "Level": "Level 3: Reconsider Travel",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Health",
+        "Details": " Reconsider travel to Kiribati due to COVID-19-related restrictions. "
+    },
+    "Macau": {
+        "color": "#e78434",
+        "Level": "Level 3: Reconsider Travel",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Health",
+        "Details": " Reconsider travel to Macau due to COVID-19-related restrictions. "
+    },
+    "Mongolia": {
+        "color": "#e78434",
+        "Level": "Level 3: Reconsider Travel",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Health",
+        "Details": " Reconsider travel to Mongolia due to COVID-19-related travel restrictions. "
+    },
+    "New Caledonia": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in New Caledonia. "
+    },
+    "New Zealand": {
+        "color": "#e78434",
+        "Level": "Level 3: Reconsider Travel",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Health",
+        "Details": " Reconsider travel to New Zealand due to COVID-19-related restrictions. "
+    },
+    "Papua New Guinea": {
+        "color": "#fd5449",
+        "Level": "Level 4: Do Not Travel",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Crimes, Civil Unrest, Health, Disaster, Kidnap and Hostage",
+        "Details": " Do not travel to Papua New Guinea due to crime, civil unrest, health concerns, natural disasters, and kidnapping. Reconsider travel due to COVID-19-related restrictions. Some areas have increased risk. Read the entire Travel Advisory. "
+    },
+    "Samoa": {
+        "color": "#e78434",
+        "Level": "Level 3: Reconsider Travel",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Health",
+        "Details": " Reconsider travel to Samoa due to COVID-19-related restrictions. "
+    },
+    "Austria": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Austria. "
+    },
+    "Belarus": {
+        "color": "#fd5449",
+        "Level": "Level 4: Do Not Travel",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "Terrorism, Civil Unrest, Kidnap and Hostage, Other",
+        "Details": " Do Not Travel to Belarus due to the arbitrary enforcement of laws, the risk of detention, the Russian military attack on neighboring Ukraine, and the buildup of Russian military in Belarus along the border with Ukraine. U.S. citizens in Belarus should depart immediately via commercial or private means. "
+    },
+    "Belgium": {
+        "color": "#facb5a",
+        "Level": "Level 2: Exercise Increased Caution",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "Terrorism",
+        "Details": " Exercise increased caution in Belgium due to terrorism. "
+    },
+    "Bulgaria": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Bulgaria. "
+    },
+    "Croatia": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Croatia. "
+    },
+    "Cyprus": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Cyprus. Some areas have increased risk. Read the entire Travel Advisory. "
+    },
+    "Czech Republic": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in the Czech Republic. "
+    },
+    "Denmark": {
+        "color": "#facb5a",
+        "Level": "Level 2: Exercise Increased Caution",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "Terrorism",
+        "Details": " Exercise increased caution in Denmark due to terrorism. "
+    },
+    "Estonia": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Estonia. "
+    },
+    "Finland": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Finland. "
+    },
+    "France": {
+        "color": "#facb5a",
+        "Level": "Level 2: Exercise Increased Caution",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "Terrorism, Civil Unrest",
+        "Details": " Exercise increased caution in France due to terrorism and civil unrest. "
+    },
+    "Germany": {
+        "color": "#facb5a",
+        "Level": "Level 2: Exercise Increased Caution",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "Terrorism",
+        "Details": " Exercise increased caution in Germany due to terrorism. "
+    },
+    "Greece": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Greece. "
+    },
+    "Hungary": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Hungary. "
+    },
+    "Iceland": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Iceland. "
+    },
+    "Ireland": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Ireland. "
+    },
+    "Latvia": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Latvia. "
+    },
+    "Lithuania": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Lithuania. "
+    },
+    "Luxembourg": {
+        "color": "#e78434",
+        "Level": "Level 3: Reconsider Travel",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "Health",
+        "Details": " Reconsider travel to Luxembourg due to COVID-19-related restrictions. "
+    },
+    "Malta": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Malta. "
+    },
+    "Montenegro": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Montenegro. "
+    },
+    "Netherlands": {
+        "color": "#facb5a",
+        "Level": "Level 2: Exercise Increased Caution",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "Terrorism",
+        "Details": " Exercise increased caution in the Netherlands due to terrorism. "
+    },
+    "Norway": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Norway. "
+    },
+    "Poland": {
+        "color": "#e78434",
+        "Level": "Level 3: Reconsider Travel",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "Health",
+        "Details": " Reconsider travel to Poland due to COVID-19-related restrictions. "
+    },
+    "Portugal": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Portugal. "
+    },
+    "Romania": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Romania. "
+    },
+    "Serbia": {
+        "color": "#facb5a",
+        "Level": "Level 2: Exercise Increased Caution",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "Crimes",
+        "Details": " Exercise increased caution in Serbia due to crime. "
+    },
+    "Slovakia": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Slovakia. "
+    },
+    "Slovenia": {
+        "color": "#e78434",
+        "Level": "Level 3: Reconsider Travel",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "Health",
+        "Details": " Reconsider travel to Slovenia due to COVID-19-related restrictions. "
+    },
+    "Spain": {
+        "color": "#facb5a",
+        "Level": "Level 2: Exercise Increased Caution",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "Terrorism, Civil Unrest",
+        "Details": " Exercise increased caution in Spain due to terrorism and civil unrest. "
+    },
+    "Sweden": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Sweden. "
+    },
+    "Switzerland": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "Terrorism",
+        "Details": " Do not travel to Switzerland due to COVID-19. "
+    },
+    "United Kingdom": {
+        "color": "#fd5449",
+        "Level": "Level 4: Do Not Travel",
+        "DateUpdated": "July 19, 2021",
+        "Threats": "Terrorism",
+        "Details": " Do not travel to the United Kingdom due to COVID-19. Exercise increased caution due to terrorism. "
+    },
+    "Kazakhstan": {
+        "color": "#fd5449",
+        "Level": "Level 4: Do Not Travel",
+        "DateUpdated": "January 25, 2022",
+        "Threats": "Civil Unrest, Health",
+        "Details": " Do not travel to Kazakhstan due to COVID-19. Exercise increased caution in Kazakhstan due to the possibility of civil unrest.    "
+    },
+    "United Arab Emirates": {
+        "color": "#e78434",
+        "Level": "Level 3: Reconsider Travel",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Other",
+        "Details": " Reconsider travel to the United Arab Emirates due to the threat of missile or drone attacks. "
+    },
+    "Aruba": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Aruba. "
+    },
+    "Barbados": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Barbados.   "
+    },
+    "Belize": {
+        "color": "#facb5a",
+        "Level": "Level 2: Exercise Increased Caution",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Crimes",
+        "Details": " Exercise increased caution in Belize due to crime.  Some areas have increased risk.  Please read the entire Travel Advisory. "
+    },
+    "Bermuda": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Bermuda. "
+    },
+    "Brazil": {
+        "color": "#facb5a",
+        "Level": "Level 2: Exercise Increased Caution",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Crimes",
+        "Details": " Exercise increased caution in Brazil due to crime. Some areas have increased risk.  Read the entire Travel Advisory. "
+    },
+    "Cayman Islands": {
+        "color": "#e78434",
+        "Level": "Level 3: Reconsider Travel",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "Health",
+        "Details": " Reconsider travel to the Cayman Islands due to COVID-19-related restrictions. "
+    },
+    "Curacao": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Cura\u00e7ao. "
+    },
+    "French West Indies": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in the French West Indies, which includes the islands of Guadeloupe, Martinique, French Saint Martin, and Saint Barth\u00e9lemy. "
+    },
+    "Montserrat": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Montserrat. "
+    },
+    "Saint Kitts and Nevis": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in St. Kitts and Nevis. "
+    },
+    "Saint Lucia": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Saint Lucia. "
+    },
+    "Sint Maarten": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Sint Maarten. "
+    },
+    "Saint Vincent and The Grenadines": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Saint Vincent and the Grenadines. "
+    },
+    "Trinidad and Tobago": {
+        "color": "#facb5a",
+        "Level": "Level 2: Exercise Increased Caution",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Crimes, Terrorism, Kidnap and Hostage",
+        "Details": " Exercise increased caution in Trinidad and Tobago due to crime, terrorism, and kidnapping.  Some areas have increased risk.  Read the entire Travel Advisory. "
+    },
+    "South Sudan": {
+        "color": "#fd5449",
+        "Level": "Level 4: Do Not Travel",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "Crimes, Kidnap and Hostage, Other",
+        "Details": " Do not travel to South Sudan due to crime, kidnapping, and armed conflict. "
+    },
+    "Turks and Caicos Islands": {
+        "color": "#facb5a",
+        "Level": "Level 2: Exercise Increased Caution",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Crimes",
+        "Details": " Exercise increased caution in the Turks and Caicos Islands due to crime.  "
+    },
+    "Grenada": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Grenada.   "
+    },
+    "Guatemala": {
+        "color": "#e78434",
+        "Level": "Level 3: Reconsider Travel",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "Crimes",
+        "Details": " Reconsider travel to Guatemala due to crime.  Some areas have increased risk. Read the entire Travel Advisory.   "
+    },
+    "Guyana": {
+        "color": "#e78434",
+        "Level": "Level 3: Reconsider Travel",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "Crimes",
+        "Details": " Reconsider travel to Guyana due to crime. "
+    },
+    "Haiti": {
+        "color": "#fd5449",
+        "Level": "Level 4: Do Not Travel",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "Crimes, Civil Unrest, Kidnap and Hostage",
+        "Details": " Do not travel to Haiti due to kidnapping, crime, and civil unrest.  U.S. citizens should carefully consider the risks of traveling to, and remaining in, Haiti in light of the current security situation and infrastructure challenges. "
+    },
+    "Honduras": {
+        "color": "#e78434",
+        "Level": "Level 3: Reconsider Travel",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "Crimes",
+        "Details": " Reconsider travel to Honduras due to crime.  Some areas have increased risk.  Read the entire Travel Advisory. "
+    },
+    "India": {
+        "color": "#facb5a",
+        "Level": "Level 2: Exercise Increased Caution",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Crimes, Terrorism, Civil Unrest, Other",
+        "Details": " Exercise increased caution in India due to crime and terrorism. "
+    },
+    "Indonesia": {
+        "color": "#facb5a",
+        "Level": "Level 2: Exercise Increased Caution",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Terrorism, Civil Unrest, Disaster",
+        "Details": " Exercise normal precaution in Indonesia due to terrorism and natural disasters. Some areas have increased risk. Read the entire Travel Advisory. "
+    },
+    "Iran": {
+        "color": "#fd5449",
+        "Level": "Level 4: Do Not Travel",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Kidnap and Hostage, Other",
+        "Details": " Do not travel to Iran due to the risk of kidnapping and the arbitrary arrest and detention of U.S. citizens.   "
+    },
+    "Iraq": {
+        "color": "#fd5449",
+        "Level": "Level 4: Do Not Travel",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Terrorism, Civil Unrest, Kidnap and Hostage, Other",
+        "Details": " Do not travel to Iraq due to terrorism, kidnapping, armed conflict, civil unrest, and Mission Iraq\u2019s limited capacity to provide support to U.S. citizens. "
+    },
+    "Israel, The West Bank and Gaza": {
+        "color": "#facb5a",
+        "Level": "Level 2: Exercise Increased Caution",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Terrorism, Civil Unrest, Other",
+        "Details": " Exercise increased caution in Israel due to terrorism and civil unrest.  "
+    },
+    "Italy": {
+        "color": "#e78434",
+        "Level": "Level 3: Reconsider Travel",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "Terrorism, Health",
+        "Details": " Reconsider travel to Italy due to COVID-19-related restrictions. Exercise increased caution due to terrorism. "
+    },
+    "Jamaica": {
+        "color": "#e78434",
+        "Level": "Level 3: Reconsider Travel",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "Crimes",
+        "Details": " Reconsider travel to Jamaica due to crime. Some areas have increased risk. Read the entire Travel Advisory.  "
+    },
+    "Jordan": {
+        "color": "#facb5a",
+        "Level": "Level 2: Exercise Increased Caution",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Terrorism, Other",
+        "Details": " Exercise increased caution in Jordan due to terrorism. Some areas have increased risk. Read the entire Travel Advisory. "
+    },
+    "Kenya": {
+        "color": "#facb5a",
+        "Level": "Level 2: Exercise Increased Caution",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Crimes, Terrorism, Kidnap and Hostage",
+        "Details": " Exercise increased caution in Kenya due to crime, terrorism, and kidnapping.  Some areas have increased risk.  Read the entire Travel Advisory. "
+    },
+    "North Korea": {
+        "color": "#fd5449",
+        "Level": "Level 4: Do Not Travel",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Other",
+        "Details": " Do not travel to North Korea due to the serious risk of arrest and long-term detention of U.S. nationals. "
+    },
+    "South Korea": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in South Korea. "
+    },
+    "Kosovo": {
+        "color": "#e78434",
+        "Level": "Level 3: Reconsider Travel",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "Terrorism, Civil Unrest, Health",
+        "Details": " Reconsider travel due to COVID-19-related restrictions. Exercise increased caution due to terrorism. Some areas have increased risk. Read the entire Travel Advisory. "
+    },
+    "Kuwait": {
+        "color": "#fd5449",
+        "Level": "Level 4: Do Not Travel",
+        "DateUpdated": "January 24, 2022",
+        "Threats": "Crimes, Health, Other",
+        "Details": " Do not travel to Kuwait due to COVID-19. Some areas have increased risk.  Read the entire Travel Advisory. "
+    },
+    "The Kyrgyz Republic": {
+        "color": "#e78434",
+        "Level": "Level 3: Reconsider Travel",
+        "DateUpdated": "March 14, 2022",
+        "Threats": "Health",
+        "Details": " Reconsider Travel to Kyrgyzstan due to COVID-19. "
+    },
+    "Laos": {
+        "color": "#e78434",
+        "Level": "Level 3: Reconsider Travel",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Crimes, Civil Unrest, Health, Other",
+        "Details": " Reconsider travel to Laos due to civil unrest and COVID-19-related restrictions. Some areas have increased risk. Read the entire Travel Advisory. "
+    },
+    "Lebanon": {
+        "color": "#e78434",
+        "Level": "Level 3: Reconsider Travel",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Crimes, Terrorism, Civil Unrest, Kidnap and Hostage, Other",
+        "Details": " Reconsider travel to Lebanon due to crime, terrorism, armed conflict, civil unrest, kidnapping and Embassy Beirut\u2019s limited capacity to provide support to U.S. citizens. Some areas have increased risk. Read the entire Travel Advisory. "
+    },
+    "Liberia": {
+        "color": "#facb5a",
+        "Level": "Level 2: Exercise Increased Caution",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Crimes, Civil Unrest",
+        "Details": " Exercise increased caution in Liberia due to crime and civil unrest. "
+    },
+    "Libya": {
+        "color": "#fd5449",
+        "Level": "Level 4: Do Not Travel",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Crimes, Terrorism, Civil Unrest, Kidnap and Hostage, Other",
+        "Details": " Do not travel to Libya due to crime, terrorism, civil unrest, kidnapping, and armed conflict. "
+    },
+    "Madagascar": {
+        "color": "#facb5a",
+        "Level": "Level 2: Exercise Increased Caution",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Crimes",
+        "Details": " Exercise increased caution due to crime. "
+    },
+    "Malawi": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Malawi. "
+    },
+    "Malaysia": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Malaysia. Some areas have increased risk.  Read the entire Travel Advisory.  "
+    },
+    "Maldives": {
+        "color": "#facb5a",
+        "Level": "Level 2: Exercise Increased Caution",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Terrorism",
+        "Details": " Exercise increased caution in Maldives due to terrorism. "
+    },
+    "Mali": {
+        "color": "#fd5449",
+        "Level": "Level 4: Do Not Travel",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Crimes, Terrorism, Kidnap and Hostage",
+        "Details": " Do not travel to Mali due to crime, terrorism, and kidnapping. "
+    },
+    "Marshall Islands": {
+        "color": "#e78434",
+        "Level": "Level 3: Reconsider Travel",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Health",
+        "Details": " Reconsider travel to the Marshall Islands due to COVID-19-related restrictions.  "
+    },
+    "Mauritania": {
+        "color": "#e78434",
+        "Level": "Level 3: Reconsider Travel",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Crimes, Terrorism",
+        "Details": " Reconsider travel to Mauritania due to crime and terrorism.  Some areas have increased risk.  Read the entire Travel Advisory. "
+    },
+    "Mauritius": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Mauritius. "
+    },
+    "Mexico": {
+        "color": "#e78434",
+        "Level": "Level 3: Reconsider Travel",
+        "DateUpdated": "April 13, 2022",
+        "Threats": "Crimes, Health, Kidnap and Hostage",
+        "Details": " Exercise normal precautions in Mauritius. "
+    },
+    "Micronesia": {
+        "color": "#e78434",
+        "Level": "Level 3: Reconsider Travel",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Health",
+        "Details": " Reconsider travel to Micronesia due to COVID-19-related restrictions. "
+    },
+    "Moldova": {
+        "color": "#fd5449",
+        "Level": "Level 4: Do Not Travel",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "Health, Other",
+        "Details": " Do not travel to Moldova due to armed conflict in neighboring Ukraine, and the unresolved conflict between the breakaway region of Transnistria and the central government. U.S. citizens in Transnistria should depart immediately via commercial or private means. "
+    },
+    "Morocco": {
+        "color": "#facb5a",
+        "Level": "Level 2: Exercise Increased Caution",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Terrorism",
+        "Details": " Exercise increased caution in Morocco due to terrorism. "
+    },
+    "Mozambique": {
+        "color": "#facb5a",
+        "Level": "Level 2: Exercise Increased Caution",
+        "DateUpdated": "March 21, 2022",
+        "Threats": "Crimes, Terrorism, Health",
+        "Details": " Exercise increased caution in Mozambique due to health issues, crime and terrorism. Some areas have greater risk. Read the entire Travel Advisory. "
+    },
+    "Nepal": {
+        "color": "#facb5a",
+        "Level": "Level 2: Exercise Increased Caution",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Event",
+        "Details": " Exercise increased caution in Nepal due to\\u202fthe potential for isolated political violence.\\u202f\\u202f "
+    },
+    "Nicaragua": {
+        "color": "#e78434",
+        "Level": "Level 3: Reconsider Travel",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "Crimes, Other",
+        "Details": " Reconsider travel to Nicaragua due to limited healthcare availability and arbitrary enforcement of laws. Exercise increased caution in Nicaragua due to crime. "
+    },
+    "Niger": {
+        "color": "#e78434",
+        "Level": "Level 3: Reconsider Travel",
+        "DateUpdated": "March 7, 2022",
+        "Threats": "Crimes, Terrorism, Kidnap and Hostage",
+        "Details": " Reconsider travel to Niger due to crime, terrorism, and kidnapping. "
+    },
+    "Nigeria": {
+        "color": "#e78434",
+        "Level": "Level 3: Reconsider Travel",
+        "DateUpdated": "February 28, 2022",
+        "Threats": "Crimes, Terrorism, Civil Unrest, Kidnap and Hostage, Other",
+        "Details": " Reconsider travel to Nigeria due to crime, terrorism, civil unrest, kidnapping, and maritime crime.  Some areas have increased risk.  Read the entire Travel Advisory. "
+    },
+    "Oman": {
+        "color": "#facb5a",
+        "Level": "Level 2: Exercise Increased Caution",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Terrorism, Other",
+        "Details": " Exercise increased caution due to terrorism and armed conflict. Some areas have increased risk. Read the entire Travel Advisory. "
+    },
+    "Pakistan": {
+        "color": "#e78434",
+        "Level": "Level 3: Reconsider Travel",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Terrorism, Kidnap and Hostage, Other",
+        "Details": " Reconsider travel to Pakistan due to terrorism and sectarian violence.  Some areas have increased risk. Read the entire Travel Advisory. "
+    },
+    "Panama": {
+        "color": "#e78434",
+        "Level": "Level 3: Reconsider Travel",
+        "DateUpdated": "April 4, 2022",
+        "Threats": "Crimes, Health",
+        "Details": " Reconsider travel to Panama due to COVID-19. Exercise increased caution due to crime. Some areas have increased risk. Read the entire Travel Advisory. "
+    },
+    "Paraguay": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Paraguay.  Some areas have increased crime risk.  Read the entire Travel Advisory. "
+    },
+    "Peru": {
+        "color": "#e78434",
+        "Level": "Level 3: Reconsider Travel",
+        "DateUpdated": "March 28, 2022",
+        "Threats": "Crimes, Terrorism, Health",
+        "Details": " Reconsider travel to Peru due to COVID-19. Exercise increased caution in Peru due to crime and terrorism. Some areas have increased risk. Read the entire Travel Advisory. "
+    },
+    "Philippines": {
+        "color": "#facb5a",
+        "Level": "Level 2: Exercise Increased Caution",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Crimes, Terrorism, Civil Unrest, Kidnap and Hostage",
+        "Details": " Exercise increased caution to the Philippines due to crime, terrorism, civil unrest, and kidnapping. Some areas have increased risk. Read the entire Travel Advisory. "
+    },
+    "Qatar": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Qatar. "
+    },
+    "Russia": {
+        "color": "#fd5449",
+        "Level": "Level 4: Do Not Travel",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "Terrorism, Civil Unrest, Health, Kidnap and Hostage, Other",
+        "Details": " Exercise normal precautions in Qatar. "
+    },
+    "Rwanda": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "March 7, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Rwanda due to COVID-19. Some areas have increased risk. Read the entire Travel Advisory. "
+    },
+    "Sao Tome and Principe": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "March 14, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Sao Tome and Principe. "
+    },
+    "Saudi Arabia": {
+        "color": "#e78434",
+        "Level": "Level 3: Reconsider Travel",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Terrorism, Other",
+        "Details": " Reconsider travel to Saudi Arabia due to the threat of missile and drone attacks on civilian facilities.  Exercise increased caution in Saudi Arabia due to terrorism.  Some areas have increased risk.  Read the entire Travel Advisory. "
+    },
+    "Senegal": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in in Senegal. Some areas have increased risk. Read the entire Travel Advisory. "
+    },
+    "Seychelles": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Seychelles. "
+    },
+    "Sierra Leone": {
+        "color": "#facb5a",
+        "Level": "Level 2: Exercise Increased Caution",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "Crimes, Civil Unrest",
+        "Details": " Exercise increased caution in Sierra Leone due to crime and civil unrest. "
+    },
+    "Singapore": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Singapore. "
+    },
+    "Solomon Island": {
+        "color": "#e78434",
+        "Level": "Level 3: Reconsider Travel",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Health",
+        "Details": " Reconsider travel to Solomon Islands due to COVID-19-related restrictions. "
+    },
+    "Somalia": {
+        "color": "#fd5449",
+        "Level": "Level 4: Do Not Travel",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "Crimes, Terrorism, Civil Unrest, Health, Kidnap and Hostage, Other",
+        "Details": " Do not travel to Somalia due to crime, terrorism, civil unrest, health issues, kidnapping, and piracy. "
+    },
+    "South Africa": {
+        "color": "#facb5a",
+        "Level": "Level 2: Exercise Increased Caution",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "Crimes, Civil Unrest",
+        "Details": " Exercise increased caution in South Africa due to crime and civil unrest. "
+    },
+    "Sri Lanka": {
+        "color": "#e78434",
+        "Level": "Level 3: Reconsider Travel",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Terrorism, Other",
+        "Details": " Reconsider travel to Sri Lanka due to fuel and medicine shortages. Exercise increased caution in Sri Lanka due to terrorism. "
+    },
+    "Sudan": {
+        "color": "#fd5449",
+        "Level": "Level 4: Do Not Travel",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "Crimes, Terrorism, Civil Unrest, Kidnap and Hostage, Other",
+        "Details": " Do not travel to Sudan due to civil unrest. Reconsider travel due to crime, terrorism, kidnapping, and armed conflict. "
+    },
+    "Suriname": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Suriname. "
+    },
+    "Syria": {
+        "color": "#fd5449",
+        "Level": "Level 4: Do Not Travel",
+        "DateUpdated": "August 2, 2021",
+        "Threats": "Terrorism, Civil Unrest, Health, Kidnap and Hostage, Other",
+        "Details": " Do not travel to Syria due to COVID-19, terrorism, civil unrest, kidnapping, armed conflict, and risk of unjust detention. "
+    },
+    "Taiwan": {
+        "color": "#e78434",
+        "Level": "Level 3: Reconsider Travel",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Health",
+        "Details": " Reconsider travel to Taiwan due to COVID-19-related restrictions. "
+    },
+    "Tajikistan": {
+        "color": "#facb5a",
+        "Level": "Level 2: Exercise Increased Caution",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Terrorism",
+        "Details": " Exercise increased caution in Tajikistan due to terrorism. "
+    },
+    "Tanzania": {
+        "color": "#facb5a",
+        "Level": "Level 2: Exercise Increased Caution",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "Crimes, Terrorism, Other",
+        "Details": " Exercise increased caution in Tanzania due to crime, terrorism, and targeting of LGBTI persons.  Some areas have increased risk.  Read the entire Travel Advisory. "
+    },
+    "Thailand": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Thailand. Some areas have increased risk. Read the entire Travel Advisory. "
+    },
+    "Timor-Leste": {
+        "color": "#facb5a",
+        "Level": "Level 2: Exercise Increased Caution",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Crimes, Civil Unrest",
+        "Details": " Exercise increased caution in Timor-Leste due to crime and civil unrest. "
+    },
+    "Togo": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Togo.  Some areas have increased risk.  Read the entire Travel Advisory. "
+    },
+    "Tunisia": {
+        "color": "#fd5449",
+        "Level": "Level 4: Do Not Travel",
+        "DateUpdated": "January 24, 2022",
+        "Threats": "Terrorism, Health, Other",
+        "Details": " Do not travel to Tunisia due to COVID-19. Exercise increased caution in Tunisia due to terrorism. Some areas have increased risk. Read the entire Travel Advisory.   "
+    },
+    "Turkey": {
+        "color": "#fd5449",
+        "Level": "Level 4: Do Not Travel",
+        "DateUpdated": "August 16, 2021",
+        "Threats": "Terrorism, Other",
+        "Details": " Do not travel to Turkey due to COVID-19. Exercise increased caution when traveling to Turkey due to terrorism and arbitrary detentions. Some areas have increased risk. Read the entire Travel Advisory. "
+    },
+    "Turkmenistan": {
+        "color": "#fd5449",
+        "Level": "Level 4: Do Not Travel",
+        "DateUpdated": "June 16, 2021",
+        "Threats": "Health, Other",
+        "Details": " Do not travel to Turkmenistan due to the COVID-19 pandemic and related preventative measures. Reconsider travel to Turkmenistan due to Embassy Ashgabat\u2019s limited capacity to provide support to U.S. citizens. "
+    },
+    "Tuvalu": {
+        "color": "#e78434",
+        "Level": "Level 3: Reconsider Travel",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Health",
+        "Details": " Reconsider travel to Tuvalu due to COVID-19-related restrictions.  "
+    },
+    "Uganda": {
+        "color": "#e78434",
+        "Level": "Level 3: Reconsider Travel",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "Crimes, Terrorism",
+        "Details": " Reconsider travel to Uganda due to crime and terrorism. "
+    },
+    "Ukraine": {
+        "color": "#fd5449",
+        "Level": "Level 4: Do Not Travel",
+        "DateUpdated": "March 29, 2022",
+        "Threats": "Crimes, Civil Unrest, Health, Other",
+        "Details": " Do not travel to Ukraine due to Russian military invasion and COVID-19.  U.S. citizens in Ukraine should depart immediately if it is safe to do so using any commercial or other privately available ground transportation options.  U.S. citizens should not travel to Ukraine due to the active armed conflict and the singling out of U.S. citizens in Ukraine by Russian government security officials.  All U.S. citizens should carefully monitor U.S. government notices and local and international media outlets for information about changing security conditions and alerts to shelter in place.  Those remaining in Ukraine should exercise increased caution due to the potential for active combat, crime, and civil unrest.  Read the entire Travel Advisory. "
+    },
+    "Uruguay": {
+        "color": "#facb5a",
+        "Level": "Level 2: Exercise Increased Caution",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Crimes",
+        "Details": " Exercise increased caution in Uruguay due to crime. "
+    },
+    "Uzbekistan": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Uzbekistan.  "
+    },
+    "Vanuatu": {
+        "color": "#e78434",
+        "Level": "Level 3: Reconsider Travel",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Health",
+        "Details": " Reconsider travel to Vanuatu due to COVID-19-related restrictions. "
+    },
+    "Venezuela": {
+        "color": "#fd5449",
+        "Level": "Level 4: Do Not Travel",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Crimes, Civil Unrest, Health, Kidnap and Hostage, Other",
+        "Details": " Do not travel to Venezuela due to arrest and detention of U.S. citizens without due process or fair trial guarantees, or as a pretext for an illegitimate purpose; crime; civil unrest; poor health infrastructure; and kidnapping. "
+    },
+    "Vietnam": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Vietnam. "
+    },
+    "Yemen": {
+        "color": "#fd5449",
+        "Level": "Level 4: Do Not Travel",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Terrorism, Civil Unrest, Health, Kidnap and Hostage, Other",
+        "Details": " Do not travel to Yemen due to terrorism, civil unrest, health risks, kidnapping, armed conflict, and landmines. "
+    },
+    "Zambia": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Zambia.  "
+    },
+    "Zimbabwe": {
+        "color": "#facb5a",
+        "Level": "Level 2: Exercise Increased Caution",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "Crimes",
+        "Details": " Exercise increased caution in Zimbabwe due to crime.            "
+    },
+    "French Guiana": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in French Guiana. "
+    },
+    "British Virgin Islands": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in the British Virgin Islands. "
+    },
+    "Tonga": {
+        "color": "#fd5449",
+        "Level": "Level 4: Do Not Travel",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Health, Disaster",
+        "Details": " Do not travel to Tonga due to recent volcanic eruptions. Reconsider travel to Tonga due to COVID-19-related restrictions. "
+    },
+    "Argentina": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Argentina. "
+    },
+    "Armenia": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Armenia. Some areas have increased risk. Read the entire Travel Advisory. "
+    },
+    "Azerbaijan": {
+        "color": "#e78434",
+        "Level": "Level 3: Reconsider Travel",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "Terrorism, Health, Other",
+        "Details": " Reconsider travel to Azerbaijan due to COVID-19-related restrictions and terrorism concerns. Some areas have increased risk. Read the entire Travel Advisory. "
+    },
+    "The Bahamas": {
+        "color": "#facb5a",
+        "Level": "Level 2: Exercise Increased Caution",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Crimes",
+        "Details": " Exercise increased caution in The Bahamas due to crime.  "
+    },
+    "Bahrain": {
+        "color": "#fd5449",
+        "Level": "Level 4: Do Not Travel",
+        "DateUpdated": "January 18, 2022",
+        "Threats": "Health",
+        "Details": " Do not travel to Bahrain due to COVID-19. "
+    },
+    "Bangladesh": {
+        "color": "#facb5a",
+        "Level": "Level 2: Exercise Increased Caution",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Crimes, Terrorism, Kidnap and Hostage",
+        "Details": " Exercise increased caution in Bangladesh due to crime, terrorism, and kidnapping. "
+    },
+    "Benin": {
+        "color": "#facb5a",
+        "Level": "Level 2: Exercise Increased Caution",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Crimes, Terrorism, Kidnap and Hostage, Other",
+        "Details": " Exercise increased caution in Benin due to crime, kidnapping, and maritime crime.  Some areas have increased risk.  Read the entire Travel Advisory. "
+    },
+    "Bhutan": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Bhutan. "
+    },
+    "Bolivia": {
+        "color": "#facb5a",
+        "Level": "Level 2: Exercise Increased Caution",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "Civil Unrest",
+        "Details": " Exercise increased caution in Bolivia due to civil unrest. "
+    },
+    "Bosnia and Herzegovina": {
+        "color": "#facb5a",
+        "Level": "Level 2: Exercise Increased Caution",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "Terrorism, Other",
+        "Details": " Exercise increased caution in Bosnia and Herzegovina due to terrorism and land mines. "
+    },
+    "Burkina Faso": {
+        "color": "#fd5449",
+        "Level": "Level 4: Do Not Travel",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Crimes, Terrorism, Kidnap and Hostage",
+        "Details": " Do not travel to Burkina Faso due to terrorism, crime, and kidnapping.   "
+    },
+    "Burundi": {
+        "color": "#e78434",
+        "Level": "Level 3: Reconsider Travel",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Crimes, Health, Other",
+        "Details": " Reconsider travel to Burundi due to crime, health, and political violence. "
+    },
+    "Cambodia": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Cambodia. Some areas have increased risks. Read the entire Travel Advisory. "
+    },
+    "Cameroon": {
+        "color": "#facb5a",
+        "Level": "Level 2: Exercise Increased Caution",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Crimes, Terrorism, Kidnap and Hostage, Other",
+        "Details": " Exercise increased caution in Cameroon due to crime.  Some areas have increased risk.  Read the entire Travel Advisory. "
+    },
+    "Canada": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Canada. "
+    },
+    "Central African Republic": {
+        "color": "#fd5449",
+        "Level": "Level 4: Do Not Travel",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Crimes, Civil Unrest, Event, Kidnap and Hostage, Other",
+        "Details": " Do not travel to the Central African Republic (CAR) due to Embassy Bangui\u2019s limited capacity to provide support to U.S. citizens, crime, civil unrest, and kidnapping. "
+    },
+    "Chad": {
+        "color": "#e78434",
+        "Level": "Level 3: Reconsider Travel",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Crimes, Terrorism, Event, Kidnap and Hostage, Other",
+        "Details": " Reconsider travel to Chad due to crime, terrorism, civil unrest, and kidnapping.  Some areas have increased risk. Read the entire Travel Advisory. "
+    },
+    "Chile": {
+        "color": "#facb5a",
+        "Level": "Level 2: Exercise Increased Caution",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "Civil Unrest",
+        "Details": " Exercise increased caution in Chile due to civil unrest.     "
+    },
+    "China": {
+        "color": "#e78434",
+        "Level": "Level 3: Reconsider Travel",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Health, Other",
+        "Details": " Reconsider travel to the People\u2019s Republic of China (PRC) due to arbitrary enforcement of local laws and COVID-19-related restrictions. Do not travel to the PRC\u2019s Hong Kong Special Administrative Region (SAR), Jilin province, and Shanghai municipality due to COVID-19-related restrictions, including the risk of parents and children being separated. Reconsider travel to the PRC\u2019s Hong Kong SAR due to arbitrary enforcement of local laws. "
+    },
+    "Colombia": {
+        "color": "#e78434",
+        "Level": "Level 3: Reconsider Travel",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "Crimes, Terrorism, Civil Unrest, Kidnap and Hostage",
+        "Details": " Reconsider travel due to crime and terrorism. Exercise increased caution due to civil unrest and kidnapping. Some areas have increased risk. Read the entire Travel Advisory. "
+    },
+    "Costa Rica": {
+        "color": "#facb5a",
+        "Level": "Level 2: Exercise Increased Caution",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "Crimes",
+        "Details": " Exercise increased caution in Costa Rica due to crime. "
+    },
+    "Cote d'Ivoire": {
+        "color": "#e78434",
+        "Level": "Level 3: Reconsider Travel",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Crimes, Terrorism, Civil Unrest",
+        "Details": " Reconsider travel to Cote d\u2019Ivoire due to crime.  Exercise increased caution due to civil unrest and terrorism.  Some areas have increased risk.  Read the entire Travel Advisory. "
+    },
+    "Cuba": {
+        "color": "#facb5a",
+        "Level": "Level 2: Exercise Increased Caution",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "Other",
+        "Details": " Exercise increased caution in Cuba due to demonstrable and sometimes debilitating injuries to members of our diplomatic community resulting in the drawdown of embassy staff. "
+    },
+    "Dominica": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Dominica. "
+    },
+    "Dominican Republic": {
+        "color": "#facb5a",
+        "Level": "Level 2: Exercise Increased Caution",
+        "DateUpdated": "April 4, 2022",
+        "Threats": "Crimes, Health",
+        "Details": " Exercise increased caution in the Dominican Republic due to crime and COVID-19. "
+    },
+    "Ecuador": {
+        "color": "#facb5a",
+        "Level": "Level 2: Exercise Increased Caution",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "Crimes",
+        "Details": " Exercise increased caution in Ecuador due to crime.  Some areas have increased risk.  Read the entire Travel Advisory. "
+    },
+    "Egypt": {
+        "color": "#e78434",
+        "Level": "Level 3: Reconsider Travel",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Terrorism, Other",
+        "Details": " Reconsider travel to Egypt due to terrorism.  Exercise increased caution in Egypt due to the Embassy\u2019s limited ability to assist dual national U.S.-Egyptian citizens who are arrested or detained. "
+    },
+    "El Salvador": {
+        "color": "#e78434",
+        "Level": "Level 3: Reconsider Travel",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "Crimes",
+        "Details": " Reconsider travel to El Salvador due to crime. "
+    },
+    "Eritrea": {
+        "color": "#facb5a",
+        "Level": "Level 2: Exercise Increased Caution",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Other",
+        "Details": " Exercise increased caution in Eritrea due to travel restrictions, limited consular assistance, and landmines. "
+    },
+    "Ethiopia": {
+        "color": "#fd5449",
+        "Level": "Level 4: Do Not Travel",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Crimes, Terrorism, Civil Unrest, Kidnap and Hostage, Other",
+        "Details": " Do not travel to Ethiopia due to armed conflict, civil unrest, communications disruptions, crime, and the potential for terrorism and kidnapping in border areas. "
+    },
+    "Gabon": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Gabon. Some areas have increased risk.  Read the entire travel advisory. "
+    },
+    "The Gambia": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in The Gambia.  Some areas have increased risk.  Read the entire travel advisory. "
+    },
+    "Georgia": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Georgia. Some areas have increased risk. Read the entire Travel Advisory.  "
+    },
+    "Ghana": {
+        "color": "#facb5a",
+        "Level": "Level 2: Exercise Increased Caution",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Crimes, Civil Unrest",
+        "Details": " Exercise increased caution in Ghana due to crime.  Some areas have increased risk.  Read the entire Travel Advisory. "
+    },
+    "Democratic Republic of Congo": {
+        "color": "#e78434",
+        "Level": "Level 3: Reconsider Travel",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "Crimes, Terrorism, Civil Unrest, Kidnap and Hostage, Other",
+        "Details": " Reconsider travel to the Democratic Republic of Congo due to crime and civil unrest.  Some areas have increased risk.  Read the entire Travel Advisory. "
+    },
+    "Republic of the Congo": {
+        "color": "#facb5a",
+        "Level": "Level 2: Exercise Increased Caution",
+        "DateUpdated": "March 7, 2022",
+        "Threats": "Crimes",
+        "Details": " Exercise increased caution in the Republic of the Congo due to crime. "
+    },
+    "Guinea-Bissau": {
+        "color": "#e78434",
+        "Level": "Level 3: Reconsider Travel",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "Crimes, Civil Unrest",
+        "Details": " Reconsider travel to Guinea-Bissau due to civil unrest.  Exercise increased caution due to crime. "
+    },
+    "Bonaire": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Bonaire.  "
+    },
+    "Sint Eustatius": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 18, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in  Sint Eustatius due to COVID-19-related restrictions.   "
+    },
+    "Saba": {
+        "color": "#a8cb9f",
+        "Level": "Level 1: Exercise Normal Precautions",
+        "DateUpdated": "April 19, 2022",
+        "Threats": "",
+        "Details": " Exercise normal precautions in Saba. "
+    }
+}

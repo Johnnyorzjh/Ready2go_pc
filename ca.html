@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="js/jquery.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
+    <script src="js/echarts.min.js"></script>
+    <script src="js/init_map.js"></script>
+    <script src="js/tool.js"></script>
+    <link rel="stylesheet" href="css/index.css" >
+    <title>Ready2go :)</title>
+    <link rel="shortcut icon" href="/img/box.svg" />
+</head>
+<body>
+    <header>
+        <img src="./img/logo.png" alt="">
+    </header>
+    <div class="content">
+        <!-- 地图元素 -->
+        <div class="china-map" id="china-map"></div>
+
+        <!-- 左侧菜单 -->
+        <div id="leftMenu">
+            <!-- 国家名 标题 -->
+            <div class="detail-title" id="country_name">
+                
+            </div>
+
+            <!-- 三种国家建议 -->
+            <div class="details">
+                <div class="detail_item">
+                    <h3>US Advise</h3>
+                    <div class="middle_message">
+                        <div class="country_level" id="us_Level"></div>
+                        <div class="country_upadte" id="us_DateUpdated"></div>
+                    </div>
+                    <div style="font-size: 14px;color: #ea8499;margin: 4px auto;font-weight: 700;"><span id="us_Threats"></span></div>
+                    <div style="font-size: 12px;color: #ea8499;margin: 4px auto;font-weight: 700;"><span id="us_Details"></span></div>
+                </div>
+                <div class="detail_item">
+                    <h3>AU Advise</h3>
+                    <div class="middle_message">
+                        <div class="country_level" id="au_Level"></div>
+                        <div class="country_upadte" id="au_DateUpdated"></div>
+                    </div>
+                    <div style="font-size: 14px;color: #ea8499;margin: 4px auto;font-weight: 700;""><span id="au_Threats"></span></div>
+                    <div style="font-size: 12px;color: #ea8499;margin: 4px auto;font-weight: 700;""><span id="au_Details"></span></div>
+                </div>
+                <div class="detail_item"  style="flex: 0 0 16vh">
+                    <h3>CA Advise</h3>
+                    <div class="middle_message">
+                        <div class="country_level" id="ca_Level"></div>
+                        <div class="country_upadte" id="ca_DateUpdated"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- 取消按钮 -->
+        <div id="cancle_button">
+            <span class="glyphicon glyphicon-chevron-left" style="font-size: 25px;color: #bcbabb;"></span>
+        </div>
+
+
+        <!-- 左上角链接 -->
+        <div class="right_top">
+            <a href="us.html">US</a>
+            <a href="au.html">AU</a>
+            <a href="ca.html">CA</a>
+        </div>
+
+        <!-- 右下角的Level -->
+        <div class="right_bottom">
+            <div style="flex: 0 0 25px;height: 150px;position: relative;">
+                <div id="arrow">
+                    <span class="glyphicon glyphicon-triangle-right" style="font-size: 25px;"></span>
+                </div>
+            </div>
+            <div class="levels">
+                <div style="background-color: #fd5449;">Level4</div>
+                <div style="background-color: #e78434;">Level3</div>
+                <div style="background-color: #facb5a;">Level2</div>
+                <div style="background-color: #a8cb9f;">Level1</div>
+                <div style="background-color: #d8d8e1;">None</div>
+            </div>
+        </div>
+        <div class="bottom" style="color: #555555;font-size:14px;">
+            <p><a href="ca.html">Ready2go</a>
+                | © <a href="https://catalog.data.gov/dataset/travel-alerts">the United States government</a>
+                | © <a href="https://creativecommons.org/publicdomain/zero/1.0/">Australian Government</a>
+                | © <a href="https://open.canada.ca/data/en/dataset/bef2ebb3-ca9a-485f-aaff-5dc36eb89426" alink="#0066ff" vlink="#fff;">Canada Government</a>
+            </p>
+            
+        </div>
+    </div>
+    <script>
+        let all_countries = []
+        let us_result = {}
+        let ca_result = {}
+        let au_result = {}
+
+        function showMap(){
+            const result = []
+            // 加载数据
+            for(let country of all_countries)
+            {
+                let country_color = ''
+                if(ca_result[country])
+                {
+                    country_color = ca_result[country]['color']
+                }
+                else
+                {
+                    country_color = '#d8d8e1'
+                }
+                result.push({
+                    name: country,
+                    itemStyle: {
+                            color: country_color
+                        }
+                })
+            }
+
+            // 初始化地图
+            var myChart = echarts.init(document.getElementById('china-map'));
+            var option = {  
+                layoutCenter: ['60%', '50%'],//位置
+	            // layoutSize:'65%',//大小
+                geo: {
+                    map: 'world',
+                    show: true,
+                    roam: true,
+                    zoom: 2.5,
+                    center: [70.170072,29.659297],
+                    emphasis:{
+                        label:{show:true},
+                    },
+                    regions: result,
+                },
+                series: [  
+                    {  
+                        name: 'World Population (2010)',  
+                        type: 'map',  
+                        data: []
+                    }  
+                ]  
+            };
+            myChart.setOption(option);
+
+            // 鼠标移入
+            myChart.on('mouseover', function (params) {
+                if(params.name)
+                {
+                    var name = params.name;
+                    const country_color = params['region']['itemStyle']['color']
+                    const levelDic = {
+                        '#fd5449':'0px',
+                        '#e78434':'30px',
+                        '#facb5a':'60px',
+                        '#a8cb9f':'90px',
+                        '#d8d8e1':'120px'
+                    }
+                    const country_level = levelDic[country_color]
+                    $("#arrow").css('display','block')
+                    $("#arrow").css('top',country_level)
+                }
+            });
+
+            // 鼠标移除
+            myChart.on('mouseout', function (params) {
+                $("#arrow").css('display','none')
+            });
+
+
+            myChart.on('click', function (params) {
+                $("#leftMenu").css('display','flex')
+                $("#cancle_button").css('display','block')
+
+                // 定义字典
+                const levelDic = {
+                    '#fd5449':'Level 4',
+                    '#e78434':'Level 3',
+                    '#facb5a':'Level 2',
+                    '#a8cb9f':'Level 1',
+                    '#d8d8e1':'None'
+                }
+                // 获取国家名
+                const country_name = params.name
+                // 判断结果中有无数据
+                const us_country_result = us_result[country_name]
+
+                let us_DateUpdated = ''
+                let us_Threats = ''
+                let us_Details = ''
+                let us_Level = ''
+                if(country_name && us_country_result)
+                {
+                    us_DateUpdated = us_country_result['DateUpdated']
+                    us_Threats = us_country_result['Threats']
+                    us_Details = us_country_result['Details']
+                    us_Level = levelDic[us_country_result['color']]
+                }
+                change_us_advice(us_DateUpdated,us_Details,us_Level,us_Threats,country_name)
+
+                const au_country_result = au_result[country_name]
+                let au_DateUpdated = ''
+                let au_Threats = ''
+                let au_Details = ''
+                let au_Level = ''
+                if(country_name && au_country_result)
+                {
+                    au_DateUpdated = au_country_result['DateUpdated']
+                    au_Threats = au_country_result['Threats']
+                    au_Details = au_country_result['Details']
+                    au_Level = levelDic[au_country_result['color']]
+                }
+
+                change_au_advice(au_DateUpdated,au_Details,au_Level,au_Threats)
+
+                const ca_country_result = ca_result[country_name]
+                let ca_DateUpdated = ''
+                let ca_Level = ''
+                if(country_name && ca_country_result)
+                {
+                    ca_DateUpdated = ca_country_result['DateUpdated']
+                    ca_Level = levelDic[ca_country_result['color']]
+                }
+
+                change_ca_advice(ca_DateUpdated,ca_Level)
+            });
+        }
+
+        $("#cancle_button").click(()=>{
+            $("#leftMenu").css('display','none')
+            $("#cancle_button").css('display','none')
+        })
+
+    </script>
+</body>
+</html>
